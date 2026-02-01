@@ -1,2 +1,8 @@
 # Digital-Clock
-Digital clock using python
+A simple digital clock made using Python Tkinter.
+
+## Run
+```bash
+python sample.py
+```
+
